@@ -1,10 +1,11 @@
 {
   "name": "uniswap_sdk",
   "version": "1.0.0",
-  "description": "Boy to track price and buy ERC20 tokens",
+  "description": "Bot created to track prices on uniswap using uniswap_sdk and buy ERC20 tokens with ETH at a given price",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
   },
   "keywords": [
     "uniswap",
