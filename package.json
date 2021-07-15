@@ -1,0 +1,20 @@
+{
+  "name": "uniswap_sdk",
+  "version": "1.0.0",
+  "description": "Boy to track price and buy ERC20 tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uniswap",
+    "defi",
+    "erc20"
+  ],
+  "author": "Carlos Alvarez",
+  "license": "ISC",
+  "dependencies": {
+    "@uniswap/sdk": "^3.0.3",
+    "ethers": "^5.4.1"
+  }
+}
